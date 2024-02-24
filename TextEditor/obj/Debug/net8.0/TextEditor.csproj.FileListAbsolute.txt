@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/TextEditor/bin/Debug/net8.0/TextEditor
+/Users/andremachado/Workspace/csharp/projects/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/Users/andremachado/Workspace/csharp/projects/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/Users/andremachado/Workspace/csharp/projects/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll

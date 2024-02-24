@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/Teste/bin/Debug/net8.0/Teste
+/Users/andremachado/Workspace/csharp/projects/Teste/bin/Debug/net8.0/Teste.deps.json
+/Users/andremachado/Workspace/csharp/projects/Teste/bin/Debug/net8.0/Teste.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/Teste/bin/Debug/net8.0/Teste.dll
+/Users/andremachado/Workspace/csharp/projects/Teste/bin/Debug/net8.0/Teste.pdb
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/Teste.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/Teste.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/Teste.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/Teste.dll
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/refint/Teste.dll
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/Teste.pdb
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/Teste.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/Teste/obj/Debug/net8.0/ref/Teste.dll

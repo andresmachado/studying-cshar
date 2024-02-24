@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/HTMLEditor.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/HTMLEditor.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/HTMLEditor.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/bin/Debug/net8.0/HTMLEditor
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/bin/Debug/net8.0/HTMLEditor.deps.json
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/bin/Debug/net8.0/HTMLEditor.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/bin/Debug/net8.0/HTMLEditor.dll
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/bin/Debug/net8.0/HTMLEditor.pdb
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/HTMLEditor.dll
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/refint/HTMLEditor.dll
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/HTMLEditor.pdb
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/HTMLEditor.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/HTMLEditor/obj/Debug/net8.0/ref/HTMLEditor.dll

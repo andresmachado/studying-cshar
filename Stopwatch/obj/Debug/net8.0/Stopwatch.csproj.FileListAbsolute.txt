@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/bin/Debug/net8.0/Stopwatch
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll

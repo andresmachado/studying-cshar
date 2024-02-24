@@ -1,0 +1,195 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+// // Practice time - ALURA Dicts
+
+// Dictionary<string, List<int>> students = new Dictionary<string, List<int>>();
+// students.Add("Andre", new List<int> {10, 8, 8, 8});
+// students.Add("Wilson", new List<int> {9, 10, 9, 7, 4});
+// students.Add("Borat", new List<int> {10, 9, 9, 7});
+
+// foreach(var student in students)
+// {
+//     Console.Write($"The student {student.Key} has the following grades: ");
+//     foreach(var grade in student.Value)
+//     {
+//         Console.Write(grade + ", ");
+//     }
+//     Console.WriteLine();
+//     Console.WriteLine("The average grade is: " + student.Value.Average());
+// }
+
+// // Practice time - ALURA Stock management
+
+// Dictionary<string, int> stock = new Dictionary<string, int>();
+// stock.Add("Apple", 20);
+// stock.Add("Rice", 20);
+// stock.Add("Chicken", 10);
+
+// foreach (var product in stock)
+// {
+//     Console.WriteLine($"We have {product.Value} of {product.Key} in stock");
+// }
+
+// // Practice Time - ALURA Quiz
+// Dictionary<string, string> quiz = new Dictionary<string,string> {
+//     {"Qual a capital do Brasil?", "Brasília"},
+//     {"Quanto é 10 vezes 30?", "300"},
+//     {"Qual a raiz quadrada de 16?", "4"},
+//     {"Quem descobriu o Brasil?", "Pedro Álvares Cabral"}
+// };
+// const int POINTS_PER_QUESTION = 10;
+// int score = 0;
+
+// // foreach (var question in quiz){
+// //     Console.WriteLine(question.Key);
+// //     Console.Write("Your answer: ");
+// //     string answer = Console.ReadLine();
+// //     if (answer == question.Value){
+// //         Console.WriteLine("Correct answer!");
+// //         score += POINTS_PER_QUESTION;
+// //     } else {
+// //         Console.WriteLine("Wrong answer!");
+// //     }
+// // }
+// // Console.WriteLine($"Your score is: {score} points out of {quiz.Count * POINTS_PER_QUESTION} possible points.")
+
+// Dictionary<string, List<int>> vendasCarros = new Dictionary<string, List<int>> {
+//     { "Bugatti Veyron", new List<int> { 10, 15, 12, 8, 5 } },
+//     { "Koenigsegg Agera RS", new List<int> { 2, 3, 5, 6, 7 } },
+//     { "Lamborghini Aventador", new List<int> { 20, 18, 22, 24, 16 } },
+//     { "Pagani Huayra", new List<int> { 4, 5, 6, 5, 4 } },
+//     { "Ferrari LaFerrari", new List<int> { 7, 6, 5, 8, 10 } }
+// };
+// Console.WriteLine("\nVendas de carros de luxo:");
+// foreach (var carro in vendasCarros) {
+//     Console.WriteLine($"O carro {carro.Key} vendeu em média {carro.Value.Average()} por ano.");
+// }
+
+// public class BankAccount () {
+//     public string Number { get; set;}
+//     public string Owner { get; set;}
+//     public decimal Balance { get; set;}
+//     private string Password;
+
+//     public string GetPassword() {
+//         return Password;
+//     }
+
+//     public void SetPassword(string password) {
+//         Password = password + "123";
+//     }
+    
+//     public void ShowBalance() {
+//         Console.WriteLine($"Hi {Owner}!");
+//         Console.WriteLine($"The balance of account {Number} is {Balance}");
+//     }
+// }
+
+// BankAccount account = new BankAccount();
+// account.Number = "123-4";
+// account.Owner = "Andre";
+// account.Balance = 1000;
+// account.SetPassword("MyPassword");
+// account.ShowBalance();
+// Console.WriteLine("The hashed password is: " + account.GetPassword());
+
+// class Car {
+//     public string brand;
+//     public string model;
+//     public int Year
+//     {
+//         get { return Year; }
+//         set
+//         { 
+//             if (value >= 1960 && value <= 2023)
+//             {
+//                 Year = value;
+//             }
+//             else
+//             {
+//                 throw new Exception("Invalid year!");
+//             }
+//         }
+//     }
+//     public string color;
+//     public decimal price;
+    
+//     public void Accelerate() {
+//         Console.WriteLine($"The {brand} {model} is accelerating!");
+//     }
+
+//     public void Brake() {
+//         Console.WriteLine($"The {brand} {model} is braking!");
+//     }
+
+//     public void Honk() {
+//         Console.WriteLine($"The {brand} {model} is honking!");
+//     }
+// }
+
+// Console.WriteLine("\nCreating a new car: ");
+// Car car = new Car();
+// car.brand = "Ferrari";
+// car.model = "LaFerrari";
+// car.Year = 2023;
+// car.color = "Red";
+// car.price = 1000000;
+// car.Accelerate();
+// car.Brake();
+// car.Honk();
+
+// Console.WriteLine("\nCreating a new product ");
+
+// class Product {
+//     public string Name { get; set; }
+//     public decimal Price { get; set; }
+//     public int Stock { get; set; }
+//     public string Brand { get; set; }
+//     private string LongDescription => $"The product {Name} from the brand {Brand} costs {Price} and has {Stock} in stock.";
+// }
+
+// Console.WriteLine("\nLambda expressions");
+
+// List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+// List<int> evenNumbers = numbers.FindAll(n => n % 2 == 0).ToList();
+// Console.WriteLine("Even numbers: ");
+// foreach (var number in evenNumbers) {
+//     Console.Write(number + " ");
+// }
+
+internal class Colaborador
+{
+    public Colaborador(string nome, double salario, int anosEmpresa, double descontos = 0)
+    {
+        Nome = nome;
+        Salario = salario;
+        AnosEmpresa = anosEmpresa;
+        Descontos = descontos;
+    }
+
+    public string Nome { get; }
+    public double Salario { get; }
+    public int AnosEmpresa { get; }
+    public double Descontos { get; }
+    public double Anuenio => 1 + (AnosEmpresa * 0.01);
+}
+
+internal class DepartamentoPessoal
+{
+    public static void ExibeFolha(List<Colaborador> colaboradores)
+    {
+        foreach (Colaborador c in colaboradores)
+        {
+            var salarioDoMes = (c.Salario * c.Anuenio) - c.Descontos;
+            Console.WriteLine($"- {c.Nome}: R$ {salarioDoMes}");
+        }
+    }
+}
+List<Colaborador> colaboradores = new();
+colaboradores.Add(new Colaborador("Andre", 1000, 5, 100));
+
+DepartamentoPessoal.ExibeFolha(colaboradores);

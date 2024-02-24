@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ScreenSound-API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ScreenSound-API.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ScreenSound-API.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ScreenSound-API.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/bin/Debug/net8.0/ScreenSound-API
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/bin/Debug/net8.0/ScreenSound-API.deps.json
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/bin/Debug/net8.0/ScreenSound-API.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/bin/Debug/net8.0/ScreenSound-API.dll
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/bin/Debug/net8.0/ScreenSound-API.pdb
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ScreenSound-API.dll
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/refint/ScreenSound-API.dll
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ScreenSound-API.pdb
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ScreenSound-API.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/ScreenSound-API/ScreenSound-API/obj/Debug/net8.0/ref/ScreenSound-API.dll

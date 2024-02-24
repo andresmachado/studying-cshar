@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/bin/Debug/net8.0/ExtraTasks
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/bin/Debug/net8.0/ExtraTasks.deps.json
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/bin/Debug/net8.0/ExtraTasks.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/bin/Debug/net8.0/ExtraTasks.dll
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/bin/Debug/net8.0/ExtraTasks.pdb
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ExtraTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ExtraTasks.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ExtraTasks.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ExtraTasks.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ExtraTasks.dll
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/refint/ExtraTasks.dll
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ExtraTasks.pdb
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ExtraTasks.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/ExtraTasks/obj/Debug/net8.0/ref/ExtraTasks.dll

@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/Calculator/bin/Debug/net8.0/Calculator
+/Users/andremachado/Workspace/csharp/projects/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/andremachado/Workspace/csharp/projects/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/andremachado/Workspace/csharp/projects/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/Calculator/obj/Debug/net8.0/ref/Calculator.dll

@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/bin/Debug/net8.0/ScreenSoundOO
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/bin/Debug/net8.0/ScreenSoundOO.deps.json
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/bin/Debug/net8.0/ScreenSoundOO.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/bin/Debug/net8.0/ScreenSoundOO.dll
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/bin/Debug/net8.0/ScreenSoundOO.pdb
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ScreenSoundOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ScreenSoundOO.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ScreenSoundOO.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ScreenSoundOO.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ScreenSoundOO.dll
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/refint/ScreenSoundOO.dll
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ScreenSoundOO.pdb
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ScreenSoundOO.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/ScreenSoundOO/obj/Debug/net8.0/ref/ScreenSoundOO.dll

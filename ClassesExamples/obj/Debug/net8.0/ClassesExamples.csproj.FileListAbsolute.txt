@@ -1,0 +1,14 @@
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ClassesExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ClassesExamples.AssemblyInfoInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ClassesExamples.AssemblyInfo.cs
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ClassesExamples.csproj.CoreCompileInputs.cache
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/bin/Debug/net8.0/ClassesExamples
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/bin/Debug/net8.0/ClassesExamples.deps.json
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/bin/Debug/net8.0/ClassesExamples.runtimeconfig.json
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/bin/Debug/net8.0/ClassesExamples.dll
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/bin/Debug/net8.0/ClassesExamples.pdb
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ClassesExamples.dll
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/refint/ClassesExamples.dll
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ClassesExamples.pdb
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ClassesExamples.genruntimeconfig.cache
+/Users/andremachado/Workspace/csharp/projects/ClassesExamples/obj/Debug/net8.0/ref/ClassesExamples.dll
